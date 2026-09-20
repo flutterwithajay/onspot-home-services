@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467866697375",
+    "project_id": "onspot-24931",
+    "storage_bucket": "onspot-24931.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467866697375:android:0d8d41537b3d057964acaa",
+        "android_client_info": {
+          "package_name": "com.example.onspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfyoeu5Us3Y3ZTvCOfhjtq9pBwY4RULpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
